@@ -1,4 +1,4 @@
-<h1 align="center">The minigame "Hot Wheels"</h1>
+<h1 align="center">"Hot Wheels" the minigame </h1>
 <p align="center">
 A simple mini-game. Knock down all the cars and get as many points as possible!
 
